@@ -1,0 +1,1 @@
+Consigne : Écrire un programme PHP qui demande à l'utilisateur d'entrer un âge et qui affiche si la personne est majeure ou mineure. 

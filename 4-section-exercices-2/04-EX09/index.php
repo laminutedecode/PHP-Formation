@@ -1,0 +1,1 @@
+Consigne : Écrivez un script PHP qui affiche les tables de multiplication de 1 à 10 à l'aide de deux boucles for.

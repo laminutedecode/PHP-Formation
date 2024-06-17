@@ -1,0 +1,1 @@
+Considérons que vous avez deux variables $nom et $prenom, qui contiennent respectivement le nom et le prénom d'une personne. Votre tâche consiste à concaténer ces deux variables pour former une phrase complète.

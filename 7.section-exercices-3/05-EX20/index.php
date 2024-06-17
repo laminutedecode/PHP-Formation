@@ -1,0 +1,1 @@
+Écrivez un programme PHP qui calcule le temps écoulé depuis le début de l'année jusqu'à maintenant, en jours, heures, minutes et secondes.

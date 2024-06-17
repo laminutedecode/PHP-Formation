@@ -1,0 +1,1 @@
+Consigne : Écrivez un script PHP qui affiche le prix d'un produit en ligne en fonction de son code. Utiliser les conditions avec Switch. Le format du code produit est le suivant XXXX exemple: "A123".

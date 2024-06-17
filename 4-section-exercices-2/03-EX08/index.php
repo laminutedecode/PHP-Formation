@@ -1,0 +1,1 @@
+Vous devez créer un formulaire HTML qui permet à l'utilisateur de saisir une adresse email. Ensuite, vous devez utiliser PHP et les expressions régulières pour vérifier si l'adresse email saisie est valide.

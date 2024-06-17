@@ -1,0 +1,1 @@
+Consigne : Créez une classe Chien avec les propriétés nom, race et age. Ajoutez un constructeur pour initialiser les propriétés de la classe. Ajoutez également une méthode aboyer qui affiche "Le chien <nom> de race <race> aboie !" (où <nom> et <race> sont remplacés par les valeurs des propriétés correspondantes).

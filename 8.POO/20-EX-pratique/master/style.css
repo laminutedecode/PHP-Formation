@@ -1,0 +1,20 @@
+body {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card {
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,.2);
+    margin: 1rem;
+    padding: 1rem;
+}

@@ -60,10 +60,6 @@ Ce référentiel contient des ressources et des exemples pour une formation exha
 - Optimisation des requêtes SQL
 - Utilisation d'outils de profilage et de debugging
 
-### Exemples pratiques
-- Création d'un système de gestion de contenu (CMS) basique
-- Développement d'une application de gestion des utilisateurs
-- Création d'un blog avec commentaires et authentification
 
 ### Ressources supplémentaires
 - Liens vers des articles, des tutoriels et des outils utiles sur PHP.
